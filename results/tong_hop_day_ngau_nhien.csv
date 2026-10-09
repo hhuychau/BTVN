@@ -1,0 +1,5 @@
+thuat_toan,mean,std
+QuickSort,66.42,0.81
+HeapSort,93.11,2.83
+MergeSort,83.08,2.78
+std::sort,54.64,2.92
